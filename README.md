@@ -1,6 +1,6 @@
 - 👋  Hi, I’m Larissa;
 
-- 👀  I’m interested in software tests;
+- 👀  I’m interested in software tests and Java programming;
 
 - 🌱  I’m currently learning Java, Selenium Webdriver, JUnit, BDD, Cucumber, Jira...
 
